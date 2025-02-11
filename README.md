@@ -6,8 +6,7 @@
 - 🌱 **Learning:** Advanced Flutter, TypeScript, and system architecture optimization
 - 💡 **Expertise:** Frontend development, RESTful APIs, Flutter, Firebase, MongoDB
 - ⚡ **Fun Facts:** 
-  - 70-80 WPM typing speed champion 
-  - Completed a 10km marathon! 🏃‍♂️
+  - 70-80 WPM typing speed 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahul-Kumar) 
