@@ -1,12 +1,4 @@
-# 👋 Hi, I'm Rahul Kumar
-
-## 💫 About Me
-- 🛠 **Currently Working On:** Full-stack web applications using React, Next.js, and Flutter mobile apps
-- 🤝 **Open to Collaborate:** On open-source projects, especially in web and mobile development
-- 🌱 **Learning:** Advanced Flutter, TypeScript, and system architecture optimization
-- 💡 **Expertise:** Frontend development, RESTful APIs, Flutter, Firebase, MongoDB
-- ⚡ **Fun Facts:** 
-  - 70-80 WPM typing speed 
+# 👋 Hi, There..
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-81592b273/) 
