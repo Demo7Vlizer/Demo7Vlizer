@@ -1,9 +1,25 @@
-# 👋 Hi, There..
+<div align="center">
+  
+# ✨ Hi, There.... <img src="https://i.pinimg.com/originals/74/03/05/740305413b8cd12706c807cb87da6d1e.gif" width="50" height="50" />
 
+<!-- <img src="https://i.pinimg.com/originals/65/2e/55/652e558bb2bdc37120bc3a1c6c093d01.gif" width="500"/> -->
+
+</div>
+
+<!-- <div align="center">
+  <img src="https://i.pinimg.com/originals/0b/90/5f/0b905f25cbab434ee3d229e189c50eb5.gif" alt="Typing SVG" />
+</div> -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b4/2f/65/b42f65c4a6ae4b4e8a0581c195289b2b.gif" alt="Typing SVG" width="400" height="300" />
+</div>
 
 ## 💻 Tech Stack
 
-### Frontend
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+<div align="center">
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -12,24 +28,64 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+</div>
+</details>
+
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br>
+<div align="center">
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Tools & Platforms
+</div>
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+<div align="center">
+
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+</details>
+
+<br>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
+<div align="center">
+  
+  ## 💝 Support My Work
+  
+  <a href="https://buymeacoffee.com/mintruikq">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  
+  <p>If you find my work valuable, consider supporting me with a coffee ☕</p>
 
-## 💝 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mintruikq)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  
+</div>
