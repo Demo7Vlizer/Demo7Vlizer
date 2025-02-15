@@ -23,15 +23,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Demo7Vlizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Demo7Vlizer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
