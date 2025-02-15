@@ -10,12 +10,12 @@
   <img src="https://i.pinimg.com/originals/0b/90/5f/0b905f25cbab434ee3d229e189c50eb5.gif" alt="Typing SVG" />
 </div> -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b4/2f/65/b42f65c4a6ae4b4e8a0581c195289b2b.gif" alt="Typing SVG" width="400" height="300" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Typing SVG" />
 </div>
 
 ## 💻 Tech Stack
 
-<details open>
+<details>
 <summary><b>Frontend</b></summary>
 <br>
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>Backend & Database</b></summary>
 <br>
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>Tools & Platforms</b></summary>
 <br>
 <div align="center">
@@ -71,7 +71,7 @@
 </div>
 
 ---
-
+<!-- 
 <div align="center">
   
   ## 💝 Support My Work
@@ -88,4 +88,4 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
   
-</div>
+</div> -->
